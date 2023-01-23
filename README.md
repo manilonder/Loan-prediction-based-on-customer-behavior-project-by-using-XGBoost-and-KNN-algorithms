@@ -1,1 +1,3 @@
-# Loan-prediction-based-on-customer-behavior-project-by-using-XGBoost-and-KNN-algorithms-for-machine-l
+# Loan-prediction-based-on-customer-behavior-project-by-using-XGBoost-and-KNN-algorithms
+In today’s world, loans have a wide impact on the profits of banks. In order to maximize their profit, banks need to give loans to the right candidates. In order to decide whether a loan should be given to a new candidate, we used a dataset about historic customer behavior based on what banks have observed. For the machine learning models, we used XGBoost and Deep Feedforward Networks models to predict who is riskier on a sample dataset. After trying different methods to increase the performance of the models, we measured the accuracy and F1 score metrics and analyzed which model is better. Lastly, we answered whether this model can be used in real life, namely is its performance enough to be used in the sector.
+
